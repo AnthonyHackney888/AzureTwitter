@@ -3,7 +3,7 @@ name: Deploy TFunction
 on:
   push:
     branches:
-    - master
+    - main
 env:
   FUNC_APP_NAME: azuretwittfunctionapp
 
