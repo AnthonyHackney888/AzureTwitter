@@ -22,7 +22,7 @@ jobs:
     - name: 'Set Node version'
       uses: actions/setup-node@v1
       with:
-        node-version: '10.x'
+        node-version: '12 LTS'
 
     - name: 'NPM install/build'
       run: |
