@@ -1,5 +1,4 @@
 name: Deploy Twitter Bot App
-
 on:
   push:
     branches:
